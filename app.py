@@ -151,7 +151,7 @@ def get_movie_poster(movie_id, movie_title, access_token):
 # 5. LOAD MOVIE DATASET
 # ==========================================
 
-movies = pd.read_csv("C:\\Users\\ASUS\\OneDrive\\Desktop\\Ai project\\data\\cleaned_movies.csv")
+movies = pd.read_csv("data/cleaned_movies.csv")
 
 
 # ==========================================
