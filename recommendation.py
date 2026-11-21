@@ -2,7 +2,7 @@
 import pandas as pd
 
 # Load cleaned movie dataset
-movies = pd.read_csv("C:\\Users\\ASUS\\OneDrive\\Desktop\\Ai project\\data\\cleaned_movies.csv")
+movies = pd.read_csv("data/cleaned_movies.csv")
 
 
 # Function to recommend similar movies
